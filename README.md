@@ -19,6 +19,11 @@ Tools Used
 MS Excel: For initial data cleaning (removing duplicates, handling missing values).
 SQL: To analyze the data after cleaning.
 Power BI: To visualize sales trends and insights.
+![Screenshot 2024-08-14 232801](https://github.com/user-attachments/assets/d6d8ba44-0398-4b80-889c-3c5732330194)
+![Screenshot 2024-07-14 222515](https://github.com/user-attachments/assets/2f5c3de0-e318-4616-9d49-4ecee7e5b00b)
+
+
+
 Analysis Steps
 Data Cleaning: The dataset was first cleaned using MS Excel, where duplicates were removed, and missing values were handled.
 Data Analysis: SQL queries were then used to calculate total sales, find popular pizzas, and examine customer orders.
